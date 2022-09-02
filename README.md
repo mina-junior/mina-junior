@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+ <img src="https://img.shields.io/badge/미나링-#7A1FA2?style=flat&logo=Aiqfome&logoColor=white"/>
+ 
