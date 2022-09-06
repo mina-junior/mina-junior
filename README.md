@@ -20,3 +20,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/미나링-#7A1FA2?style=flat&logo=Aiqfome&logoColor=white"/>
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=	87CEFA&height=250&section=header&text=Moosong%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+	
