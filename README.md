@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mina-junior/mina-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=250&section=header&text=Mina_Kang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 	
+[![mina's github stats](https://github-readme-stats.vercel.app/api?username=mina-junior)](https://github.com/mina-junior)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mina-junior)](https://github.com/mina-junior/github-readme-stats)
