@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFF0F5&height=250&section=header&text=Mina_Kang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=250&section=header&text=Mina_Kang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 	
 [![mina's github stats](https://github-readme-stats.vercel.app/api?username=mina-junior)](https://github.com/mina-junior)
 
